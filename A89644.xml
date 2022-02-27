@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English and Scottish Protestants happy tryumph over the rebels in Jreland. Declaring the prosperity of the Protestant party, and the disastrous proceedings of the adverse Irish rebellion. Jn [sic] the besiege of Wicklow. The Earle of Kildare and the Lord Thomond. Slew Sergeant Major Bromlus. Captaine Thosby. Captaine Lothon. The Lord Plunket wounded in the left legg. Jn the siege of Colerane. The Earle of Baremore the Lord Brabeston, and E. of Eastmeath. Slew the Lord Freeman and 1300 more rebels. The L. Scane being taken prisoner In the besiege of Kingsaile, the Earle of Fingale the Lord Donbengen. The Lord Astry. were overthrowne, By the Earle of Ormond. The Lord Pore Earle of Valentia. Earle of Kildare. Being sent in a letter from Robert Mason in Wicklow, to VVilliam Francis in London, and brought over by the last post on Wednesday last, being the 1. of Iune, 1642. Together with an order from both Houses of Parliament concerning my Lord Howard, and ordered to be printed. Iohn Browne, Cler. Parl.</title>
+            <author>Mason, Robert, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89644</idno>
+            <idno type="STC">Wing M940</idno>
+            <idno type="STC">Thomason E149_24</idno>
+            <idno type="STC">ESTC R4239</idno>
+            <idno type="EEBO-CITATION">99872629</idno>
+            <idno type="PROQUEST">99872629</idno>
+            <idno type="VID">156731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156731)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English and Scottish Protestants happy tryumph over the rebels in Jreland. Declaring the prosperity of the Protestant party, and the disastrous proceedings of the adverse Irish rebellion. Jn [sic] the besiege of Wicklow. The Earle of Kildare and the Lord Thomond. Slew Sergeant Major Bromlus. Captaine Thosby. Captaine Lothon. The Lord Plunket wounded in the left legg. Jn the siege of Colerane. The Earle of Baremore the Lord Brabeston, and E. of Eastmeath. Slew the Lord Freeman and 1300 more rebels. The L. Scane being taken prisoner In the besiege of Kingsaile, the Earle of Fingale the Lord Donbengen. The Lord Astry. were overthrowne, By the Earle of Ormond. The Lord Pore Earle of Valentia. Earle of Kildare. Being sent in a letter from Robert Mason in Wicklow, to VVilliam Francis in London, and brought over by the last post on Wednesday last, being the 1. of Iune, 1642. Together with an order from both Houses of Parliament concerning my Lord Howard, and ordered to be printed. Iohn Browne, Cler. Parl.</title>
+                  <author>Mason, Robert, 17th cent.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. June 4.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>List of casualities included on t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156731:1" rendition="simple:additions"/>
+            <p>The Engliſh and Scot<g ref="char:EOLhyphen"/>tiſh Proteſtants happy Tryumph o<g ref="char:EOLhyphen"/>ver the Rebels in <hi>JRELAND.</hi>
+            </p>
+            <p>Declaring the proſperity of the Proteſtant Par<g ref="char:EOLhyphen"/>ty, and the diſaſtrous Proceedings of the adverſe Iriſh Rebellion.</p>
+            <p>Jn the beſiege of <hi>Wick<g ref="char:EOLhyphen"/>low.</hi>
+The Earle of <hi>Kildare</hi>
+               <lb/>
+And the Lord <hi>Thomond.</hi>
+               <lb/>
+Slew
+<list>
+                  <item>Sergeant Major <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>romlus.</hi>
+                  </item>
+                  <item>Captaine <hi>Thoſby.</hi>
+                  </item>
+                  <item>Captaine <hi>Lothon.</hi>
+                  </item>
+               </list>
+The Lord <hi>Plunket</hi> wounded in the left Legg.</p>
+            <p>Jn the Siege of <hi>Colerane.</hi>
+               <lb/>
+               <list>
+                  <item>The Earle of <hi>Baremore</hi>
+                  </item>
+                  <item>The Lord <hi>Brabeſton,</hi>
+                  </item>
+                  <item>And E. of <hi>Eaſtmeath.</hi>
+                  </item>
+               </list>
+Slew The Lord <hi>Freeman</hi>
+               <lb/>
+and 1300 more Rebels.<lb/>
+The L. <hi>Scane</hi> being taken priſoner</p>
+            <p>In the beſiege of <hi>Kingſaile,</hi>
+               <lb/>
+               <list>
+                  <item>The Earle of <hi>Fingale</hi>
+                  </item>
+                  <item>The Lord <hi>Donbengen.</hi>
+                  </item>
+                  <item>The Lord <hi>Aſtry.</hi>
+                  </item>
+               </list>
+were overthrowne, By
+<list>
+                  <item>the Earle of <hi>Ormond.</hi>
+                  </item>
+                  <item>The Lord <hi>Pore</hi>
+                  </item>
+                  <item>Earle of <hi>Valentia.</hi>
+                  </item>
+                  <item>Earle of <hi>Kildare.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Being ſent in a Letter from <hi>Robert Maſon</hi> in <hi>Wicklow,</hi> to <hi>VVilliam Francis</hi> in <hi>London,</hi> and brought over by the laſt Poſt on Wedneſday laſt, being the 1. of <hi>Iune,</hi> 1642.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Together with an Order from both Houſes of Parliament concerning my Lord <hi>Howard,</hi> and Ordered to be Printed.</p>
+                        <closer>
+                           <signed>Iohn Browne, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Horton,</hi> 1642. <hi>June</hi> 4.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156731:2"/>
+            <pb facs="tcp:156731:2"/>
+            <head>The <hi>Engliſh</hi> and <hi>Scottiſh</hi> Tri<g ref="char:EOLhyphen"/>umph over the Rebels in <hi>Ire<g ref="char:EOLunhyphen"/>land,</hi> being ſent in a Letter from <hi>Rob. Maſon</hi> of <hi>Wick<g ref="char:EOLunhyphen"/>low,</hi> to <hi>William Fran<g ref="char:EOLhyphen"/>cis</hi> in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> confeſſe I have beene ſilent theſe many Weeks, in not writing unto you the conditi<g ref="char:EOLhyphen"/>onall eſtate of this Kingdome, but the reaſon of my ſilence was this, that J was once intended to have ſeene you rather in preſence there in <hi>England</hi> then to write to you in abſence, for the Rebels had beſieged us tenne daies, which might beget in us a ſufficient ſuſpition of
+<pb n="4" facs="tcp:156731:3"/>danger, but we defended our ſelves very ſtrongly all that time, there being a conti<g ref="char:EOLhyphen"/>nuall vigiliae appointed, And we ſent in the meane time private intelligence to the Earle of <hi>Kildare,</hi> who had pitched his Te<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts neere <hi>Archloo,</hi> and to the Lord o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Thomond,</hi> neare <hi>Garm<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ton</hi> who immediately prepared their Forces and aſſiſted us; there was at the firſt skirmiſh ſome efuſion of blood on both ſides, and the Lord <hi>Pluneket</hi> on the Rebels ſide had his left Legg beaten off, and Cap<g ref="char:EOLhyphen"/>taine <hi>Thoſby,</hi> Captain <hi>Lothon</hi> and Sergeant Major <hi>Bromlus</hi> were all ſlain on their part, whereupon the Souldiers began to recant but being cloſely followed they fled, and being purſued by the Earle of <hi>Kildare</hi> and the Lord <hi>Thomond,</hi> there were at leaſt ſe<g ref="char:EOLhyphen"/>ven hundred ſlaine, the other eſcaped by ſlight.</p>
+            <p>Thus we were delivered from the rave<g ref="char:EOLhyphen"/>nous intents of thoſe bloody Cannibals the next day, there was a publicke thankſ<g ref="char:EOLhyphen"/>giving to Almighty God for our delive<g ref="char:EOLhyphen"/>rance.</p>
+            <p>
+               <pb n="5" facs="tcp:156731:3"/>
+There were many other terrible Com<g ref="char:EOLhyphen"/>bats between the <hi>Engliſh</hi> and the <hi>Iriſh,</hi> but of late the Proteſtants have been very Victo<g ref="char:EOLhyphen"/>rious. J will deſcribe the relation of two famous Battails betweene them, that are moſt memmorable.</p>
+            <p>
+               <hi>Colerane</hi> was taken by the Rebels, five Weeks ſince, and they held it in poſſeſſion three Weeks and upwards, moſt inhuman<g ref="char:EOLhyphen"/>ly killing the Proteſtants, ſtriping many naked both men and women, and turned them into the fields, whipping them cruel<g ref="char:EOLhyphen"/>ly, but the Earle of <hi>Barramore</hi> and Lord <hi>Brab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſton,</hi> Earle of <hi>Eſt-meath.</hi> united their Forces and came with Fifteene hundred men againſt the Rebels in <hi>Colerane,</hi> but the firſt day there was ſlaine above a thouſand Rebels, and the Lord <hi>Brabeſton</hi> perceiving them almoſt tired, followed them very cloſe, and at the firſt meeting ſlew the Lord <hi>Freeman</hi> and tooke the Lord <hi>Scane</hi> priſner, then the other fled and left the towne, which is now in the poſſeſſion of the Pro<g ref="char:EOLhyphen"/>teſtants.</p>
+            <p>
+               <pb n="6" facs="tcp:156731:4"/>
+The laſt Fight betweene the Proteſtants and Rebels was at <hi>Kingſaile,</hi> the Earle <hi>Fin<g ref="char:EOLhyphen"/>gale.</hi> the Lord <hi>Dunbowin,</hi> and the Lord <hi>Aſ<g ref="char:EOLhyphen"/>try,</hi> came with foure thouſand againſt it and had almoſt (as I might ſay) taken <hi>Kingſaile,</hi> but they did not poſſeſſe it long for the Earle of <hi>Ormond,</hi> the Lord <hi>Poore</hi> Earle of <hi>Valentia,</hi> and the Earle of <hi>Kildare,</hi> came with three thouſand five hundred men, and regained what the other had ta<g ref="char:EOLhyphen"/>ken beating them with great violence from the Towne and ſlew the Lord <hi>Dunbowin,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Humphry,</hi> and Sir <hi>Patricke Cockſquire,</hi> beſides eighteene hundred more, that were ſlaine by the Proteſtant party.</p>
+            <p>Sr. you ſee how God fighteth for his chil<g ref="char:EOLhyphen"/>dren, and I hope by his divine providence and all conquering power, we ſhall over<g ref="char:EOLhyphen"/>come them all ſuddenly, but they have done, unknowne miſchiefe to our Country, and men that formerly lived in famous re<g ref="char:EOLhyphen"/>putation, and of great abillity are extream<g ref="char:EOLhyphen"/>ly impoveriſhed by them the have taken maney Townes, and the Proteſtants alſo
+<pb n="7" facs="tcp:156731:4"/>have taken many townes from them, but the Citty of <hi>Galway</hi> is beſieged with nigh 1700. men, and in danger to be taken, but withall we heare that the Earle of <hi>Ormond,</hi> and the Earle of <hi>Barramore,</hi> are in prepara<g ref="char:EOLhyphen"/>tion to come againſt them.</p>
+            <p>We have theſe ſtrong Pillars of the Pro<g ref="char:EOLhyphen"/>teſtant Army.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>The Lord <hi>Ormond</hi>
+                     </cell>
+                     <cell>Earle of <hi>Eaſt-meath,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lord <hi>Poore,</hi>
+                     </cell>
+                     <cell>Earle of <hi>Barramore,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Earle of <hi>Valentia,</hi>
+                     </cell>
+                     <cell>Earle of <hi>Kildare,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lord <hi>Brabeſton,</hi>
+                     </cell>
+                     <cell>The Lord <hi>Thomond,</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>theſe are thoſe that have ſtrongly and couragiouſly reſiſted the Rebels, otherwiſe <hi>Jreland</hi> had beene ſubdued long agoe, but theſe have magnanimouſly oppoſed them, the Lord <hi>Antrim</hi> is ſlaine by the Rebels, who was a Nevvtrall. the Lord <hi>Macqueere</hi> is taken priſner, and the lord <hi>Scane</hi> alſo by the Proteſtants, many other remarkeable paſsages I could relate unto you, but part<g ref="char:EOLhyphen"/>ly time and convenience doe not give me leave, and partly I beleeve you have heard of them already, but I hope J ſhall have
+<pb n="8" facs="tcp:156731:5"/>greater opportunity to ſend you ſhortly ve<g ref="char:EOLhyphen"/>ry ioyfull and delectable Newes for I ſee that God doth greately proſper the procee<g ref="char:EOLhyphen"/>dings of the Proteſtants, and confoundeth the ſtrength of his and our Enemies, for which wee praiſe and Magnifie his holy and omnipotent Name, and doe heartely beſeech him in our ſupplications, that he would grant us Peace in this World, and eternall happineſſe in the World to come.</p>
+            <closer>
+               <signed>Your Friend in all things to his power, <hi>Robert Maſon.</hi>
+               </signed>
+               <dateline>From <hi>Wicklow,</hi> 
+                  <date>May, 26. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <p>JT is Ordered by the Lords and Com<g ref="char:EOLhyphen"/>mons aſsembled in this preſent Parlia<g ref="char:EOLhyphen"/>ment, that the Lord <hi>Howard</hi> of <hi>Carr</hi> ſhall attend his Maieſty and preſent ſome reaſons to him.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parl.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
